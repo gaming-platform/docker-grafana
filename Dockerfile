@@ -1,4 +1,4 @@
-FROM grafana/grafana-oss:10.0.10
+FROM grafana/grafana-oss:12.2.0-17142428006
 
 ENV GF_AUTH_DISABLE_LOGIN_FORM=1 \
     GF_AUTH_ANONYMOUS_ENABLED=1 \
