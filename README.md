@@ -11,7 +11,7 @@ This repository provides a `Grafana` image for the
 ## Usage
 
 __Name__  
-`ghcr.io/gaming-platform/docker-grafana:10.0`
+`ghcr.io/gaming-platform/docker-grafana:12.2`
 
 __Environment variables__  
 Below is a summary of the environment variables available for this image.
